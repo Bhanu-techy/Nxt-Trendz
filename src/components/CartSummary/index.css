@@ -1,0 +1,17 @@
+
+@media (min-width: 768px) {
+  .checkout {
+    background-color: #0b69ff;
+    border: 0px;
+    width: 120px;
+  }
+}
+
+
+@media (min-width: 568px){
+.checkout {
+  background-color: #0b69ff;
+  border: 0px;
+  width: 120px;
+}
+}
