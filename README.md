@@ -120,6 +120,8 @@ Use these files to complete the implementation:
 - The Cart Item should consist of an HTML button element with data-testid attribute values as **remove**
 - The product image in **Cart Item** Route should have the alt as `title` of the product
 
+</details>
+
 ## User credentials
 
 - Prime User credentials
@@ -135,5 +137,3 @@ Use these files to complete the implementation:
    username: raja
    password: raja@2021
   ```
-
-</details>
